@@ -129,7 +129,6 @@ index.html
 ```
 style.css
 ```
-/* STEP 6: Global Styles */
 * {
   margin: 0;
   padding: 0;
@@ -147,8 +146,6 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
-/* STEP 7: Header and Navigation */
 header {
   display: flex;
   justify-content: space-between;
@@ -173,13 +170,9 @@ header {
   color: white;
   transition: color 0.3s ease;
 }
-
-/* STEP 9: Hover Effects */
 .nav-links li a:hover {
   color: #ffcc00;
 }
-
-/* STEP 8: Flexbox Layouts */
 .hero,
 .about,
 .contact,
@@ -214,13 +207,9 @@ header {
   height: auto;
   object-fit: cover;
 }
-
-/* STEP 9: Hover Effects */
 .product-card:hover {
   transform: scale(1.05);
 }
-
-/* STEP 5: Footer Styles */
 footer {
   background: #003366;
   color: white;
@@ -243,7 +232,6 @@ footer {
 .social-links a:hover {
   color: #ffcc00;
 }
-
 ```
 
 
